@@ -1,0 +1,5 @@
+# Ignore unnecessary files for Docker build
+README.md
+.git
+.gitignore
+*.md
